@@ -6,7 +6,10 @@
 using namespace std;
 
 void prohanie() {
-    cout << "Спасибо, что воспользовались мной сегодня! Хорошего дня!" << endl;
+    string jiji;
+    cout << "что сегодня делаешь jiji?" << endl;
+    cin >> jiji;
+cout << "Я сегодня отдыхаю" <<  "а ты??" << endl;
 int main()
 {
     
