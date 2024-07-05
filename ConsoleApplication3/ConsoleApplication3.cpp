@@ -5,10 +5,18 @@
 
 using namespace std;
 
+void pashalka() {
+    string jopa;
+    cout << "Hello, enter vash pinkod from kartochka: ";
+    cin >> jopa;
+
+    cout << "Ok, " << jopa << " " << "https://animi.club" << " " << "Misha kogda na backend?" << endl;
+}
+
 int main()
 {
     cout << "Hello World!\n";
-
+    pashalka();
 }
 
 // bla bla bla
