@@ -5,8 +5,11 @@
 
 using namespace std;
 
+void prohanie() {
+    cout << "Спасибо, что воспользовались мной сегодня! Хорошего дня!" << endl;
 int main()
 {
+    
     cout << "Hello World!\n";
 
 }
